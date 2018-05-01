@@ -1,6 +1,6 @@
 # anma
 
-> A Vue.js project
+> 安码演示项目demo
 
 ## Build Setup
 
@@ -18,4 +18,10 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 参考资料
+1. pixi游戏引擎中文资料：https://github.com/Zainking/LearningPixi
+2. pixi api：http://pixijs.download/release/docs/index.html
+3. pixi example：http://pixijs.io/examples/#/basics/basic.js
+4. 雪碧图制作工具：https://www.codeandweb.com/texturepacker
+
+
